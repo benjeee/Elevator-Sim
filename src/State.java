@@ -1,0 +1,6 @@
+
+public enum State {
+
+	MOVING_UP, MOVING_DOWN, HALTED, DOORS_OPEN, DOORS_CLOSED
+	
+}
